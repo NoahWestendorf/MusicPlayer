@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F2F07BD2C5F7C3700F413B8 /* SongListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F2F07BC2C5F7C3700F413B8 /* SongListView.swift */; };
 		8FE450282BEE0AD300359E5F /* MusicPlayerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE450272BEE0AD300359E5F /* MusicPlayerApp.swift */; };
 		8FE4502A2BEE0AD300359E5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE450292BEE0AD300359E5F /* ContentView.swift */; };
 		8FE4502C2BEE0AD400359E5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FE4502B2BEE0AD400359E5F /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F2F07BC2C5F7C3700F413B8 /* SongListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongListView.swift; sourceTree = "<group>"; };
 		8FE450242BEE0AD300359E5F /* MusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FE450272BEE0AD300359E5F /* MusicPlayerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerApp.swift; sourceTree = "<group>"; };
 		8FE450292BEE0AD300359E5F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				8FE450292BEE0AD300359E5F /* ContentView.swift */,
+				8F2F07BC2C5F7C3700F413B8 /* SongListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FE450392BEE0C6E00359E5F /* Song.swift in Sources */,
+				8F2F07BD2C5F7C3700F413B8 /* SongListView.swift in Sources */,
 				8FE4502A2BEE0AD300359E5F /* ContentView.swift in Sources */,
 				8FE4503C2BEE0C8800359E5F /* Artist.swift in Sources */,
 				8FE450282BEE0AD300359E5F /* MusicPlayerApp.swift in Sources */,
